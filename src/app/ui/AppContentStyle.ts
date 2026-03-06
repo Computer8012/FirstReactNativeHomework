@@ -56,7 +56,7 @@ const AppContentStyle = StyleSheet.create({
   },
 
   bottomBarIcon: {
-    backgroundColor: "#bbb",
+    tintColor: "#bbb",
     height: 42.0,
     width: 42.0,
   },
